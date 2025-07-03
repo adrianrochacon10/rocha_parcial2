@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './adrian_logo.jpg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          ADRIAN JETSAEL ROCHA CHACON - EXAMEN PARCIAL 2
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://utd.edu.mx/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          UNIVERSIDAD TECNOLOGICA DE DURANGO
         </a>
       </header>
     </div>
