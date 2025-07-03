@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rocha_parcial2/static/css/main.f855e6bc.css",
+    "main.js": "/rocha_parcial2/static/js/main.aeee36ab.js",
+    "static/js/453.2c0dc3e0.chunk.js": "/rocha_parcial2/static/js/453.2c0dc3e0.chunk.js",
+    "static/media/adrian_logo.jpg": "/rocha_parcial2/static/media/adrian_logo.4be65a7c76b780da78e6.jpg",
+    "index.html": "/rocha_parcial2/index.html",
+    "main.f855e6bc.css.map": "/rocha_parcial2/static/css/main.f855e6bc.css.map",
+    "main.aeee36ab.js.map": "/rocha_parcial2/static/js/main.aeee36ab.js.map",
+    "453.2c0dc3e0.chunk.js.map": "/rocha_parcial2/static/js/453.2c0dc3e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aeee36ab.js"
+  ]
+}
